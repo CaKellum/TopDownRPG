@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/Heros determination silent.ogg-eba6e7ac1141464270e2d80ff519cec6.oggstr"
+
+[deps]
+
+source_file="res://assets/Meta data assets files/sounds/music/Heros determination silent.ogg"
+dest_files=[ "res://.import/Heros determination silent.ogg-eba6e7ac1141464270e2d80ff519cec6.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0
