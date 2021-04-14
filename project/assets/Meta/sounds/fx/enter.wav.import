@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/enter.wav-17b5a9ead3414e0a95483dad62e189de.sample"
+
+[deps]
+
+source_file="res://assets/Meta/sounds/fx/enter.wav"
+dest_files=[ "res://.import/enter.wav-17b5a9ead3414e0a95483dad62e189de.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0

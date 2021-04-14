@@ -1,15 +1,15 @@
 [gd_scene format=2]
 
-[node name="HUD" type="Control"]
+[node name="Titlescreen" type="Control"]
 __meta__ = {
 "_edit_use_anchors_": false
 }
 
 [node name="Title" type="Label" parent="."]
-margin_left = 141.0
+margin_left = 142.0
 margin_top = 45.0
-margin_right = 884.0
+margin_right = 885.0
 margin_bottom = 306.0
-text = "Title Screen"
+text = "The Little Wizards Adventure"
 align = 1
 valign = 1

@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/break.wav-45e192b7a4e1c1c4bac4f7bc33d8033b.sample"
+
+[deps]
+
+source_file="res://assets/Meta/sounds/fx/break.wav"
+dest_files=[ "res://.import/break.wav-45e192b7a4e1c1c4bac4f7bc33d8033b.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0
